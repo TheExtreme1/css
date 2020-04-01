@@ -1,0 +1,159 @@
+body{
+  text-align: center;
+  margin: 0;
+  line-height: 2;
+}
+.topsquare{
+  background-color: #C2F0FC;
+  padding-top: 150px;
+  position: relative;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 3.125rem;
+  line-height: 1;
+}
+.header-h2{
+  line-height: 1;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+h3{
+  font-family: 'Oswald', sans-serif;
+}
+hr{
+  border-style: dotted;
+  border-bottom: none;
+  width: 4%;
+  border-width: 9px;
+  color: grey;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+.cloud-1{
+  position: absolute;
+  right: 460px;
+  top: 75px;
+
+}
+.cloud-2{
+  position: absolute;
+}
+.profile{
+  width: 50%;
+  margin: 0 auto 30px auto;
+}
+.profile-img{
+  padding-top:70px;
+}
+.profile-description{
+  margin: 0 20px 0 20px;
+
+}
+.btwntopandmid{
+  margin-bottom: 30px;
+}
+.skill-block{
+padding-top: 10px;
+margin-top: 20px;
+  background-color: #ffd3b6;
+}
+.skill-row-1{
+  width: 50%;
+  margin: 0 auto 0 auto;
+
+
+}
+.skills-img-1{
+  width: 170px;
+  margin-right: 30px;
+  float: left;
+}
+
+.skills-heading{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.skill-row-1{
+  text-align: left;
+
+}
+.skills-img-2{
+  width: 170px;
+  float:left;
+  margin-right: 30px;
+}
+.skill-row-2{
+  width: 50%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+.contact-me{
+  width: 30%;
+  margin: 40px auto 0 auto;
+
+}
+.btn {
+  margin-top: 15px;
+	background-color:#ffffff;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+text-indent:0;
+	border:1px solid #b7b9c2;
+	display:inline-block;
+	color:#11999E;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+height:34px;
+	line-height:34px;
+width:117px;
+	text-decoration:none;
+	text-align:center;
+}.btn:hover {
+	background-color:#18B0B0;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.contact-h2{
+  color:#11999E;
+}
+.contact-h3{
+  color: #40bfc1;
+}
+.bottom-container{
+  margin-top: 20px;
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+}
+.hangouts{
+  text-decoration: none;
+  color:#11999E;
+}
+.hangouts:hover{
+  color: #BEEBE9;
+}
+  .copyright{
+    margin:0;
+color: #BEEBE9;
+font-size: .75rem;
+
+}
